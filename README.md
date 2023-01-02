@@ -1,0 +1,2 @@
+# gradient-descent-for-linear-regression
+Gradient descent is a powerful algorithm that can be used in building linear regression model, here in this repository I create a python module that implemented gradient descent for linear regression. This module can work with 1 feature or multiple features linear regression problems. Before using the model, user need to defined or specify initial parameters for linear regression, such as weight (w), intercept (b), alpha, and number of iteration. 
